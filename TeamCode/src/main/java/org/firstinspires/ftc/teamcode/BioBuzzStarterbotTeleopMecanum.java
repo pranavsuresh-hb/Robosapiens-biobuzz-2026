@@ -47,7 +47,6 @@ import com.qualcomm.robotcore.hardware.PIDFCoefficients;
  * we will also need to adjust the "PIDF" coefficients with some that are a better fit for our application.
  */
 
-@TeleOp(name = "Robosapiens", group = "32832")
 //@Disabled
 public class BioBuzzStarterbotTeleopMecanum extends OpMode {
 
